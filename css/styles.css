@@ -111,3 +111,18 @@ form{
 .box-middle{
     text-align: justify;
 }
+.box-content-1{
+    margin-top: 30px;
+    padding-top: 130px;
+    background-image: url('../Images/img2.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+}
+h2{
+    font-size: 2.5em;
+    font-weight: 16 px;
+    margin: 0px 600px;
+    padding: 100px;
+}
+    
